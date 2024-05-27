@@ -3,3 +3,4 @@
 
 - remake commands into command files
 - check pet score checker
+- hamburger 
